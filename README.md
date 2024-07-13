@@ -1,7 +1,7 @@
 ## Olá! Me chamo Vitor Colombiano, um prazer te conhecer!👋
 
 - 🔭 Hoje trabalho como estagiário em SiteOps da Quero Educação
-- 🌱 Estudando Ciência da Computação de UNIFESP
+- 🌱 Estudando Ciência da Computação na UNIFESP
 
 <div align="center">
   <a href="https://github.com/vitorColombiano">
