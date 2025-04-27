@@ -32,6 +32,20 @@
   <a href="https://www.linkedin.com/in/vitorcolombiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br/>
+<br/>
+
+<div align="center">
+   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vitorColombiano&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorColombiano&margin-w=10&margin-h=10&theme=gotham&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
+</div>
+
+
+
 
 
  
